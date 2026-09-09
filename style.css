@@ -48,7 +48,13 @@
   }
   .topnav input[type=text] {
     border: 1px solid #ccc;
+
+h1{
+  background-colour:#ec000C
+  font-family:'comic-sans', cursive;
+    
   }
 }
+
 
     
