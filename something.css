@@ -1,0 +1,21 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #000000;
+    text-align: center;
+}
+h1 {
+    background-color: #f6091b;
+    color: Black;
+    padding: 20px;
+    font-family: 'Comic Sans MS', cursive;
+}
+u {
+    font-family: 'Comic Sans MS', cursive;
+    background-colour: #00000;
+    padding: 20px;
+    colour: Black;
+}
+a{
+    colour: White;
+    padding: 40px;
+}
