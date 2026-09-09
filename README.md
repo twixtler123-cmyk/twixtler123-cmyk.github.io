@@ -1,1 +1,7 @@
 # twixtler123-cmyk.github.io
+
+
+
+
+TOKUSATSU BUT FOR IDIOTS 
+I WILL BE UPDATING THESE DAWGS
