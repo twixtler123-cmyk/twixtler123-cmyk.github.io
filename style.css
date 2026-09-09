@@ -51,7 +51,9 @@
 
 h1{
   background-colour:#ec000C
-  font-family:'comic-sans', cursive;
+  Colour:black;
+  padding: 20px;
+  font-family:'Comic Sans MS', cursive;
     
   }
 }
